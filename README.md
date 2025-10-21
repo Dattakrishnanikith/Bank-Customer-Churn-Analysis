@@ -79,6 +79,9 @@ Product 2: Up to 100% churn among low-balance customers ($1K–$10K)  a major re
 📈 Ready to turn data into decisions!
 <img width="1731" height="891" alt="CHURN BI" src="https://github.com/user-attachments/assets/460e8c63-a872-44c2-8cd1-1fbcf7e9cfae" />
 
+<img width="1126" height="772" alt="Data model" src="https://github.com/user-attachments/assets/b6ab19bd-2267-4ae1-b7a3-3969da2a0694" />
+
+
 
  Would love your feedback, thoughts, or a discussion around customer churn strategies.
 
