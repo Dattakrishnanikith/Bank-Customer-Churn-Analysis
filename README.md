@@ -1,5 +1,6 @@
 # Bank-Customer-Churn-Analysis
 Power BI report analyzing customer churn and retention patterns in banking data.
+
 🎯 Just completed a hands-on Customer Churn Analysis Report on Bank Customer Data in Power BI!
 
 Every business has customers but not all customers stay forever. Some leave, and understanding why they leave lies at the heart of Customer Churn Analysis (also known as Customer Attrition).
