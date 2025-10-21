@@ -1,4 +1,4 @@
-# Bank-Customer-Churn-Analysis
+# Bank Customer Churn Analysis
 Power BI report analyzing customer churn and retention patterns in banking data.
 
 🎯 Just completed a hands-on Customer Churn Analysis Report on Bank Customer Data in Power BI!
